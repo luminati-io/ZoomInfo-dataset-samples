@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 ZoomInfo companies</h2>
 
-![ZoomInfo dataset header](https://github.com/luminati-io/ZoomInfo-X-dataset-samples/blob/main/zoominfo-datasets.PNG)
+![ZoomInfo dataset header](https://github.com/luminati-io/ZoomInfo-dataset-samples/blob/main/zoominfo-datasets.PNG)
 
 A ZoomInfo dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
 
