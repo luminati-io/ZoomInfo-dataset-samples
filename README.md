@@ -6,6 +6,8 @@
 
 A ZoomInfo dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
 
+<h2>Some of the data points that are included in the dataset:</h2>
+
 * ```id```: The unique identifier for the post
 * ```user_posted```: The username of the post owner
 * ```name```: The name of the post owner
